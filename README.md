@@ -18,3 +18,7 @@ You will be replied to from `nobodyteam@gmx.com`
 # Software Specific
 
 ## PromptCalculator: [promptcalculator@nobodyteam.com](mailto:promptcalculator@nobodyteam.com)
+
+## PatternWriter: [patternwriter@nobodyteam.com](mailto:patternwriter@nobodyteam.com)
+
+## Open Voice System (OVS): [ovs@nobodyteam.com](mailto:ovs@nobodyteam.com)
